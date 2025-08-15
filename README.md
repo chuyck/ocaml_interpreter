@@ -3,15 +3,10 @@ CSE305 Programming Languages Interpreter Project.
 OCaml based interpreter for a simple stack-based language. 
 
 Example Program:
-
 push :unit:
-
 push :error:
-
 swap
-
 push x
-
 push num0
 pop
 push num1
